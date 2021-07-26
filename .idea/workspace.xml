@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eea0270e-d8f9-4071-847d-b1dfc33c78dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_4_API_30]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="navigationResourceFile" />
+        <option value="resourceFile" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vnc01Y65bHB8UeShRdy2UCg2Do" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="emulator-5554" />
+    <property name="DEBUGGABLE_PROCESS" value="com.androiddevs.mvvmnewsapp" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.androiddevs.mvvmnewsapp.adapter" />
+      <recent name="com.androiddevs.mvvmnewsapp.constants" />
+      <recent name="com.androiddevs.mvvmnewsapp.models" />
+      <recent name="com.androiddevs.mvvmnewsapp" />
+      <recent name="com.androiddevs.mvvmnewsapp.ui" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.androiddevs.mvvmnewsapp.ui" />
+    </key>
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="com.androiddevs.mvvmnewsapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="MVVMNewsApp.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eea0270e-d8f9-4071-847d-b1dfc33c78dc" name="Default Changelist" comment="" />
+      <created>1627201066716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627201066716</updated>
+    </task>
+    <task id="LOCAL-00001" summary="development done">
+      <created>1627296842360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627296842360</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="development done" />
+    <option name="LAST_COMMIT_MESSAGE" value="development done" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="489" y="170" key="#com.intellij.ide.util.MemberChooser" timestamp="1627289696273">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="489" y="170" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1627289696273" />
+    <state x="370" y="221" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1627223769542">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="370" y="221" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1627223769542" />
+    <state x="483" y="71" key="#xdebugger.evaluate" timestamp="1627293051146">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="483" y="71" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1627293051146" />
+    <state x="308" y="209" key="AndroidCreateResourceFileDialog" timestamp="1627203384586">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="308" y="209" key="AndroidCreateResourceFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1627203384586" />
+    <state x="544" y="219" key="AndroidCreateXmlResourceDialog" timestamp="1627287235920">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="544" y="219" key="AndroidCreateXmlResourceDialog/0.0.1440.900@0.0.1440.900" timestamp="1627287235920" />
+    <state x="491" y="191" key="AndroidProcessChooserDialog" timestamp="1627293033520">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="491" y="191" key="AndroidProcessChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1627293033520" />
+    <state width="450" height="618" key="DebuggerActiveHint" timestamp="1627291173865">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="450" height="618" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1627291173865" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1627286299573">
+      <screen x="0" y="25" width="1440" height="786" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.25.1440.786@0.25.1440.786" timestamp="1627286299573" />
+    <state width="1396" height="365" key="GridCell.Tab.0.bottom" timestamp="1627296666071">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="365" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1627296666071" />
+    <state width="1396" height="365" key="GridCell.Tab.0.bottom/0.25.1440.786@0.25.1440.786" timestamp="1627291143816" />
+    <state width="1396" height="365" key="GridCell.Tab.0.center" timestamp="1627296666070">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="365" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1627296666070" />
+    <state width="1396" height="365" key="GridCell.Tab.0.center/0.25.1440.786@0.25.1440.786" timestamp="1627291143815" />
+    <state width="1396" height="365" key="GridCell.Tab.0.left" timestamp="1627296666069">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="365" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1627296666069" />
+    <state width="1396" height="365" key="GridCell.Tab.0.left/0.25.1440.786@0.25.1440.786" timestamp="1627291143814" />
+    <state width="1396" height="365" key="GridCell.Tab.0.right" timestamp="1627296666071">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="365" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1627296666071" />
+    <state width="1396" height="365" key="GridCell.Tab.0.right/0.25.1440.786@0.25.1440.786" timestamp="1627291143816" />
+    <state width="1396" height="240" key="GridCell.Tab.1.bottom" timestamp="1627293117260">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="240" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1627293117260" />
+    <state width="1396" height="240" key="GridCell.Tab.1.bottom/0.25.1440.786@0.25.1440.786" timestamp="1627293036967" />
+    <state width="1396" height="240" key="GridCell.Tab.1.center" timestamp="1627293117259">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="240" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1627293117259" />
+    <state width="1396" height="240" key="GridCell.Tab.1.center/0.25.1440.786@0.25.1440.786" timestamp="1627293036966" />
+    <state width="1396" height="240" key="GridCell.Tab.1.left" timestamp="1627293117259">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="240" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1627293117259" />
+    <state width="1396" height="240" key="GridCell.Tab.1.left/0.25.1440.786@0.25.1440.786" timestamp="1627293036965" />
+    <state width="1396" height="240" key="GridCell.Tab.1.right" timestamp="1627293117259">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="240" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1627293117259" />
+    <state width="1396" height="240" key="GridCell.Tab.1.right/0.25.1440.786@0.25.1440.786" timestamp="1627293036967" />
+    <state x="542" y="248" key="refactoring.ChangeSignatureDialog" timestamp="1627292357157">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="542" y="248" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1627292357157" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1627296571171">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1627296571171" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/ArticleFragment.kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/NewsViewModel.kt</url>
+          <line>53</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/NewsViewModel.kt</url>
+          <line>32</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/NewsViewModel.kt</url>
+          <line>34</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/NewsViewModel.kt</url>
+          <line>36</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
